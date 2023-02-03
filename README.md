@@ -1,1 +1,1 @@
-# 6070_ca02
+CA02: Spam eMail Detection using Naive Bayes Classification Algorithm
