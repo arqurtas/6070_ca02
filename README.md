@@ -1,6 +1,7 @@
 # CA02: Spam eMail Detection using Naive Bayes Classification Algorithm
 ____________________________________________________________
 **About the Program**
+
 The following program in summary reads through emails and detects wether the email classifies as a "Spam" or "Not Spam". 
 
 In further detail 702 emails are divided in Spam and Not Spam Categories. Using Naive Bayes Classification algoryths and a test model of 260 emails the classication will be predicted and compared to the accuracy of the classifications that are already knowm.
